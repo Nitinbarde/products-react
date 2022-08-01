@@ -1,0 +1,17 @@
+.productSpe{
+    width: 60%;
+    height: 600px;
+    margin: 20px auto;
+    border: 1px solid red;
+    padding: 15px;
+    text-align: center;
+   
+
+}
+
+.productImgee{
+    width: 70%;
+    margin-top: 20px;
+    height: 300px;
+
+}
